@@ -5,13 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="2 - L\Solution\" />
-    <Folder Include="2 - L\Problem\" />
-    <Folder Include="3 - I\Problem\" />
-    <Folder Include="3 - I\Solution\" />
-    <Folder Include="4 - D\Problem\" />
-    <Folder Include="4 - D\Solution\" />
-  </ItemGroup>
-
 </Project>
